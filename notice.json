@@ -1,6 +1,10 @@
 {
-    "version": "0.26.6",
-    "release_date": "2026-02-18",
-    "title": "Bug Fix.",
-    "content": ""
+    "version": "0.26.7",
+    "release_date": "2026-02-19",
+    "title_en": "Bug Fix.",
+    "content_en": "",
+    "title_cn": "错误修复.",
+    "content_cn": "",
+    "title_kr": "버그 수정.",
+    "content_kr": ""
 }
